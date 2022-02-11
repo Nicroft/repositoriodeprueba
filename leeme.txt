@@ -1,1 +1,6 @@
 cualquier cosa
+cualquier cosa 2
+Historia de usuario:
+Como usario
+quiero encontrar la veterinaria más cercana
+para llevar a mi mascota y ahcer uso de sus servicios.
